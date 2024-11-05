@@ -2,6 +2,6 @@
 Documenting my cybersecurity learning journey - 11-05-2014
 
 ## Table of Contents
-- [Linux Commands](Projects/README.md)
+- [Projects](Projects/README.md)
 - [Certifications](Certifications/README.md)
 
