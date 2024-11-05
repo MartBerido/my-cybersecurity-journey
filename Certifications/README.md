@@ -3,4 +3,4 @@
 This folder contains my certifications in cybersecurity and related fields. Click on the links below to view each certificate:
 
 - [CompTIA Security+](CompTIA_Security_Plus.pdf)
-- [Google Cybersecurity Certificate](Google_Cybersecurity_Certificate.png)
+- [Google Cybersecurity Certificate](GoogleCybersecurityCertificate.pdf)
