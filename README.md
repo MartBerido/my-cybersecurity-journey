@@ -48,7 +48,3 @@ With a solid academic background in **Cybersecurity** and practical experience i
     <img src="https://img.shields.io/badge/-Computer%20Programming%20for%20Everyone%20Certificate%20-%2300A9E0?&style=for-the-badge&logo=Coursera&logoColor=white" alt="Computer Programming for Everyone Certificate" />
   </a>
 </div>
-
-## Projects
-- Detection Lab
-- SOC Automation Project
