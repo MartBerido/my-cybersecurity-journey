@@ -48,7 +48,11 @@ With a solid academic background in **Cybersecurity** and practical experience i
   <a href="Certifications/Certified%20in%20Cybersecurity.pdf">
     <img src="https://img.shields.io/badge/-Certified%20in%20Cybersecurity%20-%230084B8?&style=for-the-badge&logo=ISC2&logoColor=white" alt="Certified in Cybersecurity" />
   </a>
+  <a href="Certifications/Computer%20Programming%20for%20Everyone%20-%20Certificate.pdf">
+    <img src="https://img.shields.io/badge/-Computer%20Programming%20for%20Everyone%20Certificate%20-%2300A9E0?&style=for-the-badge&logo=Coursera&logoColor=white" alt="Computer Programming for Everyone Certificate" />
+  </a>
 </div>
+
 
 
 ### Certifications List:
