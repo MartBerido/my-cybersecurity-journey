@@ -1,27 +1,51 @@
-# Hello, I'm Mart Leonar Berido
+# Hello, I'm **Mart Leonar Berido** 👋
 <a href="https://www.linkedin.com/in/martberido"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+## About Me
 
-[Brief Introduction - Remove this afterwards]
+🎓 **Recent Graduate in Cybersecurity**  
+🔒 **Passionate about Cybersecurity & Technology**  
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a recent graduate with a **Post-Degree Diploma in Cybersecurity** and a strong foundation in computer science. Throughout my academic journey, I have gained hands-on experience in:
+
+- 🔍 **Threat Detection**  
+- 🚨 **Incident Response**  
+- 🛡️ **Vulnerability Assessment**  
+
+Although I am new to the professional world, I am eager to apply my knowledge, continue learning, and contribute to enhancing organizational security.
+
+---
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+🚀 **Aspiring Cybersecurity Analyst**  
+💼 **Eager to Contribute and Grow Professionally**  
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+With a solid academic background in **Cybersecurity** and practical experience in **threat detection**, **incident response**, and **vulnerability assessments**, my goal is to apply my skills to protect organizations from evolving cyber threats. I am excited to contribute to the security field and grow professionally while safeguarding critical infrastructure and data.
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
+## Objective
+
+🚀 **Eager to Contribute to Cybersecurity**  
+💼 **Aspiring Cybersecurity Analyst**  
+
+With a strong academic background and hands-on experience in threat detection, incident response, and vulnerability assessment, my goal is to leverage my skills and knowledge to protect organizations from evolving cyber threats. I aim to grow professionally in the cybersecurity field, applying my expertise to help safeguard critical infrastructure and data.
+
+
+| Skills                                    |
+|-----------------------------------------------|
+| 🔍 **Threat Detection and Incident Response** |
+| 🛠️ **Vulnerability Assessment**               |
+| 🖥️ **Security Information and Event Management (SIEM) Implementation** |
+| 🌐 **Network Traffic Monitoring and Attack Detection** |
+| 📋 **Case Management with TheHive**           |
+| ⚙️ **Scripting and Automation for Threat Mitigation** |
+| 🖥️ **Microsoft Windows Server & Azure**      |
+| 🌐 **TCP/IP, DNS, DHCP**                     |
+| 🛠️ **Hands-on experience in system troubleshooting and network support** |
+| 🖱️ **Advanced Linux Command-Line Proficiency**|
+
+
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
