@@ -39,12 +39,15 @@ With a solid academic background in **Cybersecurity** and practical experience i
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <a href="Certifications/GoogleCybersecurityCertificate.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate%20-%2300A9E0?&style=for-the-badge&logo=Coursera&logoColor=white" alt="Google Cybersecurity Certificate" />
+    <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate%20-%232A3D7A?&style=for-the-badge&logo=Coursera&logoColor=white" alt="Google Cybersecurity Certificate" />
   </a>
   <a href="Certifications/Cybersecurity%20Monitoring%20and%20Detection%20Lab.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/-Cybersecurity%20Detection%20%26%20Monitoring%20Certification%20-%230081C0?&style=for-the-badge&logo=Udemy&logoColor=white" alt="Cybersecurity Detection & Monitoring Certification" />
+    <img src="https://img.shields.io/badge/-Cybersecurity%20Detection%20%26%20Monitoring%20Certification%20-%23274B63?&style=for-the-badge&logo=Udemy&logoColor=white" alt="Cybersecurity Detection & Monitoring Certification" />
   </a>
   <a href="Certifications/Computer%20Programming%20for%20Everyone%20-%20Certificate.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/-Computer%20Programming%20for%20Everyone%20Certificate%20-%2300A9E0?&style=for-the-badge&logo=Coursera&logoColor=white" alt="Computer Programming for Everyone Certificate" />
+    <img src="https://img.shields.io/badge/-Computer%20Programming%20for%20Everyone%20Certificate%20-%233E4C59?&style=for-the-badge&logo=Coursera&logoColor=white" alt="Computer Programming for Everyone Certificate" />
   </a>
 </div>
+
+
+
