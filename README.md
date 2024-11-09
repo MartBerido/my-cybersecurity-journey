@@ -49,5 +49,3 @@ With a solid academic background in **Cybersecurity** and practical experience i
   </a>
 </div>
 
-
-
