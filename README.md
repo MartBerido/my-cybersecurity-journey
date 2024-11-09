@@ -35,32 +35,19 @@ With a solid academic background in **Cybersecurity** and practical experience i
 | 🛠️ **Hands-on experience in system troubleshooting and network support** |
 | 🖱️ **Advanced Linux Command-Line Proficiency**|
 
-## Certifications
-
 🎓 **Certifications**  
-<div>
-  <a href="Certifications/GoogleCybersecurityCertificate.pdf">
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <a href="Certifications/GoogleCybersecurityCertificate.pdf" target="_blank">
     <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate%20-%2300A9E0?&style=for-the-badge&logo=Coursera&logoColor=white" alt="Google Cybersecurity Certificate" />
   </a>
-  <a href="Certifications/Cybersecurity%20Monitoring%20and%20Detection%20Lab.pdf">
+  <a href="Certifications/Cybersecurity%20Monitoring%20and%20Detection%20Lab.pdf" target="_blank">
     <img src="https://img.shields.io/badge/-Cybersecurity%20Detection%20%26%20Monitoring%20Certification%20-%230081C0?&style=for-the-badge&logo=Udemy&logoColor=white" alt="Cybersecurity Detection & Monitoring Certification" />
   </a>
-  <a href="Certifications/Certified%20in%20Cybersecurity.pdf">
-    <img src="https://img.shields.io/badge/-Certified%20in%20Cybersecurity%20-%230084B8?&style=for-the-badge&logo=ISC2&logoColor=white" alt="Certified in Cybersecurity" />
-  </a>
-  <a href="Certifications/Computer%20Programming%20for%20Everyone%20-%20Certificate.pdf">
+  <a href="Certifications/Computer%20Programming%20for%20Everyone%20-%20Certificate.pdf" target="_blank">
     <img src="https://img.shields.io/badge/-Computer%20Programming%20for%20Everyone%20Certificate%20-%2300A9E0?&style=for-the-badge&logo=Coursera&logoColor=white" alt="Computer Programming for Everyone Certificate" />
   </a>
 </div>
-
-
-
-### Certifications List:
-- **Google Cybersecurity Certificate** - Coursera, October 2024
-- **Cybersecurity Detection & Monitoring Certification** - Udemy, September 2024
-- **Certified in Cybersecurity** - ISC2, April 2024
-- **CompTIA Security+** (In progress)
-
 
 ## Projects
 - Detection Lab
