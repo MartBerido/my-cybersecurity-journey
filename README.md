@@ -36,23 +36,20 @@ With a solid academic background in **Cybersecurity** and practical experience i
 | 🖱️ **Advanced Linux Command-Line Proficiency**|
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
-
-## Certifications
 
 🎓 **Certifications**  
 <div>
-  <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate%20-%2300A9E0?&style=for-the-badge&logo=Coursera&logoColor=white" alt="Google Cybersecurity Certificate" />
-  <img src="https://img.shields.io/badge/-Cybersecurity%20Detection%20%26%20Monitoring%20Certification%20-%230081C0?&style=for-the-badge&logo=Udemy&logoColor=white" alt="Cybersecurity Detection & Monitoring Certification" />
-  <img src="https://img.shields.io/badge/-Certified%20in%20Cybersecurity%20-%230084B8?&style=for-the-badge&logo=ISC2&logoColor=white" alt="Certified in Cybersecurity" />
+  <a href="Certifications/GoogleCybersecurityCertificate.pdf">
+    <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate%20-%2300A9E0?&style=for-the-badge&logo=Coursera&logoColor=white" alt="Google Cybersecurity Certificate" />
+  </a>
+  <a href="Certifications/Cybersecurity%20Monitoring%20and%20Detection%20Lab.pdf">
+    <img src="https://img.shields.io/badge/-Cybersecurity%20Detection%20%26%20Monitoring%20Certification%20-%230081C0?&style=for-the-badge&logo=Udemy&logoColor=white" alt="Cybersecurity Detection & Monitoring Certification" />
+  </a>
+  <a href="Certifications/Certified%20in%20Cybersecurity.pdf">
+    <img src="https://img.shields.io/badge/-Certified%20in%20Cybersecurity%20-%230084B8?&style=for-the-badge&logo=ISC2&logoColor=white" alt="Certified in Cybersecurity" />
+  </a>
 </div>
+
 
 ### Certifications List:
 - **Google Cybersecurity Certificate** - Coursera, October 2024
