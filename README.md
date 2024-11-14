@@ -1,4 +1,4 @@
-# Hello, I'm **Mart Leonar Berido** - currently working with my portfolio👋
+# Hello, I'm **Mart Leonar Berido** - (currently working my portfolio)👋
 <a href="https://www.linkedin.com/in/martberido"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## About Me
