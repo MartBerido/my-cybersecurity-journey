@@ -5,6 +5,8 @@ This folder contains my verified certifications and cybersecurity training. Thes
 ---
 
 ## 🛡️ CompTIA Security+
+📄 [View Certificate](CompTIA%20Security+%20Certificate.pdf)
+CompTIA Security+ Certificate
 
 An industry-recognized certification validating core cybersecurity knowledge, including:
 - Network security fundamentals
