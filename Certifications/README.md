@@ -26,7 +26,7 @@ This folder contains my verified cybersecurity certifications and training. Thes
 ---
 
 ## 🧾 IT Auditing & GRC Bootcamp
-📄 [View Certificate](IT%AUDITING%&&GRC.pdf)
+📄 [View Certificate](IT%20AUDITING%20&%20GRC.pdf)
 
 **Completed: Dec 22–26, 2025 | CPE: 5 hours**
 
