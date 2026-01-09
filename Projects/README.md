@@ -1,4 +1,4 @@
-# DrownSaver – Automatic Inflating Anti-Drowning Device
+# DrownSaver – Automatic Inflating Anti-Drowning Device - in progress
 
 ## 📌 Project Overview
 DrownSaver is a wearable safety device designed to help prevent drowning incidents by automatically inflating an airbag when drowning behavior is detected. The device also sends a real-time alert to lifeguards through a mobile application.
@@ -78,11 +78,6 @@ The goal of this project was to:
 - Longer wireless communication range
 - Support for multiple devices per lifeguard app
 - Smaller and more compact device design
-
----
-
-## 📁 Documentation
-Full project documentation is available in the `/documentation` folder.
 
 ---
 
