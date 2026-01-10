@@ -5,7 +5,7 @@
 DrownSaver is a wearable safety device designed to help prevent drowning incidents by automatically inflating an airbag when drowning behavior is detected. The device also sends a real-time alert to lifeguards through a mobile application.
 
 ---
-
+<!-- 
 ## 🎯 Objective
 The goal of this project was to:
 - Design a **wearable anti-drowning device**
